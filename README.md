@@ -63,5 +63,5 @@ Explore More at : <a href="https://jwt.io/">Click Here </a>
 
 <br>
 
-## Build Using Following technology and tools :
+## 🪶Build Using Following technology and tools :
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="89" height="85"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="89" height="85"><img src="https://github.com/iamjaimindamor/Node-JS-API/assets/76213871/eaa9f439-4c84-4705-a7ba-897ecf63194d" width="89" height="85">
