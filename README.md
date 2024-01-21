@@ -50,6 +50,7 @@ and various other packages.
 Refer to package.json file for installing Required Packages
 
 <br>
+
 ## 🔒 Autentication and Authorization
 
 ⟹ In this project API Call are Authenticated and Authorized using jwt package.
