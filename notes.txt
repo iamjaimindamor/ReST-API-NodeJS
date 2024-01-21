@@ -1,0 +1,55 @@
+// JWT stands for json-web-token
+//jwt consist of three part header.payload.signature
+
+/* header has two components first is type of token and algortihm used */
+ 
+/** payload consist of claims {Claims are nothing but content or additinational data typically about the user or client}
+ 
+There are three types of claims :
+1.Registered claim
+2.public claim
+3.private claim 
+
+Registered claim are pre-defined claim...like issuer,exp
+
+public claim can be defined at will as per IANA Registry to avoid collision
+
+private claim are custom claims(additional data or content) that are shared between parties.................
+
+NOTE: the information stored in token are visible when the token is accessible therfore sensitive information should not be mentioned unless it is encrypted...
+
+And lastly the signature........ 
+
+the signature takes encoded header.encoded payload.and secret key and signs it as per the algorithm mentioned in the header section.....
+
+
+ */
+
+
+//bycrypt..........................................................................................................
+
+//sensitive information like password...
+/**
+ * Hash is fixed-length string generated using hashing algorithm............................
+ *so in bycrypt which uses blowfish cyper...
+ in this the simple plain text password is put through the hashing algo..... a hash is generated..... but using this hash it possible to trace back to password...as specific password always yield same hash....
+ so salting is also used which randomize the hash and making it unpredicatable.............
+
+ saltRound = higher the value of round more times the algo takes and also high number of chances of preventing attack..................
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * bycrypt hash is used because it one of earliest used package since 1999 and blowfish cypher till now unbeatable....... and supported by many contributors..........
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */

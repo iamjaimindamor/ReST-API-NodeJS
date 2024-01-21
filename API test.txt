@@ -1,0 +1,43 @@
+/*
+//API testing JSON frmt
+
+/*{
+  "_id": "2",
+  "name": "Vivekanand",
+  "age": 21,
+  "email": "vivek@test.com",
+  "department": "CE",
+  "__v": 0
+} */
+
+//address format
+/*
+
+{
+    "add_id": "1",
+    "address": "221B Bakarnagar",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "country": "India",
+    "__v": 0
+}
+
+*/////
+
+/**/
+
+//username
+{
+  "username":"xyz123",
+  "password":"xyz123"
+}
+
+
+
+//admin details...........
+
+{
+    "username":"iamviraj",
+    "password":"iamviraj"
+}
+tkn = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2OTE1ODY5NzYsImV4cCI6MTY5MTU5NDE3Nn0.3EuaYvfXvSAGcbQW-QFn_xZ6cECSXQiDBIu_RwYq258
