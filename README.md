@@ -23,6 +23,7 @@
 ✒️PATCH: Partially update a resource.
 
 ✒️OPTIONS: Get information about the communication options available for a resource.
+
 <br>
 
 ## 👾 API Testing
