@@ -9,6 +9,7 @@
 
 ⟹ A REST API (Application Programming Interface) is a set of rules and conventions for building and interacting with web services that adhere to the principles of REST.
 
+⟹ This is a project in which user profile is maintained using ReST.
 
 ⟹ RESTful APIs use standard HTTP methods to perform operations on resources. The most common HTTP methods used in REST are:
 
@@ -43,7 +44,9 @@ Click Here ⇢ <a href="https://www.postman.com/home"><img src="https://github.c
 Various Packages such as:
 
 mongoose - for database
+
 express - for framework
+
 bcryptjs - for encryption of sensitive info
 and various other packages.
 
@@ -55,13 +58,24 @@ Refer to package.json file for installing Required Packages
 
 ⟹ In this project API Call are Authenticated and Authorized using jwt package.
 
-⟹ jwt stands for JSON Wen Token
+⟹ jwt stands for JSON Web Token
 
 ⟹ JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 
 Explore More at : <a href="https://jwt.io/">Click Here </a>
 
 <br>
+
+## 🤖 Overview
+
+
+![image](https://github.com/iamjaimindamor/ReST-API-NodeJS/assets/76213871/56098871-ea99-4c8c-b2e6-8371e403690a)
+
+![image](https://github.com/iamjaimindamor/ReST-API-NodeJS/assets/76213871/c7684d5f-7500-4c93-8425-83fb6148cb96)
+
+![image](https://github.com/iamjaimindamor/ReST-API-NodeJS/assets/76213871/3606b2f0-5a52-403b-91ee-78f76a97c726)
+
+
 
 ## 🪶Build Using Following technology and tools :
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="89" height="85"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="89" height="85"><img src="https://github.com/iamjaimindamor/Node-JS-API/assets/76213871/eaa9f439-4c84-4705-a7ba-897ecf63194d" width="89" height="85">
